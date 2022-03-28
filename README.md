@@ -1,6 +1,5 @@
-# C37-SpeedRacer_ReferenceCode
-
-Multiplayer Car Racing Game using Firebase
+# Multiplayer Car Racing Game using Firebase
+https://nikhil4474.github.io/Multiplayer-Car-Game/
 
 Current Limit to two players
 
